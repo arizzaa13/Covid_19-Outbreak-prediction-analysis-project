@@ -1,1 +1,2 @@
 # Covid_19-Outbreak-prediction-analysis-project
+In this project, I have worked on a covid-19 dataset and understand the spread of the disease. Started off by building graphs for number of confirmed cases, cured cases and deaths using Seaborn library. Then, also analysed the spread of the virus across individual states. Finally, building random forest regressor on top of the data to predict the number of confirmed cases with respect to date.
